@@ -1,0 +1,3 @@
+sudo hdparm -t --direct /dev/sda
+
+remember lsblk
